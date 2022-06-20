@@ -41,3 +41,5 @@ For AWS cloud servers, a great way to avoid these kinds of technical constraints
   ![image builder](https://user-images.githubusercontent.com/103466963/174672524-02a2c4c3-d950-4f8b-b17e-18518fe31f11.png)
   
   ![custom_ami_1](https://user-images.githubusercontent.com/103466963/174676486-28f9fe18-5a9d-41e5-9cba-283e5520ee98.gif)
+  
+  <p> You should be able to label your architectures always and provide side notes to guide any other person who wants to understand what you are drawing
