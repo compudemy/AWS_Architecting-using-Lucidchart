@@ -1,5 +1,8 @@
-# AWS_Architecting-using-Lucidchart
-Architecture on Building &amp; Distributing new AMIs in the AWS Cloud
+# AWS_Architecting-using-Lucidchart B
+
+## Description:  Architecture on Building &amp; Distributing new AMIs in the AWS Cloud
+
+###Point to Note: Before going through this repository,make sure you have well understood AWS_Architecting_with_Lucidchart.
 
 <p> As we all know,the Lucidchart provides collaborative online diagramming to make it easy to draw flowcharts in real time thus helping teams to see and build the future from idea to reality.
 
@@ -20,3 +23,4 @@ For AWS cloud servers, a great way to avoid these kinds of technical constraints
   
 <P>  .Configure the instance to meet application or management requirements, e.g. setting up SSH, logging, or installing the latest software updates
   
+![code image](https://user-images.githubusercontent.com/103466963/174665649-e5b33915-a976-458a-8740-29d632ad3cf2.png)
