@@ -36,8 +36,8 @@ For AWS cloud servers, a great way to avoid these kinds of technical constraints
   
 <p> On the chart, Rollout each EC2 server or AutoScaling Group that requires the new AMI
   
-  See diagrams below:
+  See diagrams below: Design the flow charts to fit as the diagrams
   
-  ![image builder](https://user-images.githubusercontent.com/103466963/174667063-36b7faae-d16b-43c9-9476-11ff59ec4857.png)
-
-  ![ami architecture](https://user-images.githubusercontent.com/103466963/174667146-780c3328-eced-4051-874c-4753702b558e.jpeg)
+  ![image builder](https://user-images.githubusercontent.com/103466963/174672524-02a2c4c3-d950-4f8b-b17e-18518fe31f11.png)
+  
+  ![custom_ami_1](https://user-images.githubusercontent.com/103466963/174676486-28f9fe18-5a9d-41e5-9cba-283e5520ee98.gif)
