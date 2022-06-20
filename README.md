@@ -10,11 +10,11 @@ For AWS cloud servers, a great way to avoid these kinds of technical constraints
 
   At a high-level overview, the process for building and distributing new AMIs are as follows:
 
-###Step 1
+### Step 1
 
-<P>.Create an EC2 server using an existing AMI as the base image
+<P> .Create an EC2 server using an existing AMI as the base image
   
-###Step 2
+### Step 2
   
-<P>.Configure the instance to meet application or management requirements, e.g. setting up SSH, logging, or installing the latest software updates
+<P>  .Configure the instance to meet application or management requirements, e.g. setting up SSH, logging, or installing the latest software updates
   
