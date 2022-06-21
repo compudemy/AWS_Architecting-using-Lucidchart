@@ -1,4 +1,4 @@
-# AWS_Architecting-using-Lucidchart B
+# AWS_Architecture diplay
 
 ## Description:  Architecture on Building &amp; Distributing new AMIs in the AWS Cloud
 
